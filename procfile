@@ -1,1 +1,1 @@
-web: gunicorn DJANGO5-BLOG_TUTORIAL.wsgi
+web: gunicorn myapp.wsgi
